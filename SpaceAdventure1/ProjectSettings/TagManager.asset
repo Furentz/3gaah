@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Exit
+  - MedicalSupply
+  - GM
+  - SpawnPoint
+  - Player2
+  - EngBot
+  - SciBot
+  - MilBot
+  - DrainableMat
+  - Decor
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Player
+  - Obstacles
+  - NPC
+  - DrainableObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2616835977
+    locked: 0
+  - name: Items
+    uniqueID: 974927787
+    locked: 0
+  - name: Units
+    uniqueID: 3640169983
+    locked: 0
+  - name: FX
+    uniqueID: 3098083363
+    locked: 0
