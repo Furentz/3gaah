@@ -181,8 +181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  BulletDmg: 50
-  other: {fileID: 0}
+  BulletDmg: 100
 --- !u!212 &212097454751293544
 SpriteRenderer:
   m_ObjectHideFlags: 1

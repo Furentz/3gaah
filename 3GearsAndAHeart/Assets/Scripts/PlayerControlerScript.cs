@@ -8,7 +8,7 @@ public class PlayerControlerScript : MonoBehaviour {
 	bool facingRight = true;
 	private Rigidbody2D rigi;
 	Transform playerGraphics;
-
+	private AudioClip milbotTrackSound;
 
 
 	private void Awake()
@@ -56,7 +56,7 @@ public class PlayerControlerScript : MonoBehaviour {
 
 	void Update()
 	{
-		if (grounded && Input.GetKeyDown (KeyCode.Space))
+		if (grounded && Input.GetKeyDown (KeyCode.X))
 		{
 			anim.SetBool("Ground", false);
 			rigi.AddForce(new Vector2(0, jumpForce));

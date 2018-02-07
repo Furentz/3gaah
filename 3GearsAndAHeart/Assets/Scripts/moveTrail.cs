@@ -5,7 +5,7 @@ using UnityEngine;
 public class moveTrail : MonoBehaviour {
 	public int moveSpeed = 10;
 	public int BulletDmg = 50;
-	public MobDamage other;
+	//public MobDamage other;
 
 	// Update is called once per frame
 	void Update () 
@@ -23,9 +23,5 @@ public class moveTrail : MonoBehaviour {
 		}
 	}
 
-			//MobDamage enemy = GetComponent<MobDamage> ();
-		//if (enemy != null) {
-			//enemy.DamageEnemy (BulletDmg);
-			//Debug.LogError ("Bang!");
-		//}
+		
 }

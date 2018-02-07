@@ -34,14 +34,12 @@ public class MobDamage : MonoBehaviour
 		enemyStats.Health -= damage;
 		if (enemyStats.Health <= 0) {
 			anim.SetTrigger ("dead");
-			StartCoroutine(WaitSeconds());
 			}
 	}
 		
 	IEnumerator WaitSeconds()
 	{
 		yield return (time2die);
-		Debug.LogError ("Wait for seconds?");
 		GameMaster.KillEnemy(this);
 	}
 
