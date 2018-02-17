@@ -25,9 +25,9 @@ GameObject:
   - component: {fileID: 50583691290979666}
   - component: {fileID: 61415059450207032}
   - component: {fileID: 82246782789615994}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: EngBotMine
-  m_TagString: DrainableMat
+  m_TagString: NanoCube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

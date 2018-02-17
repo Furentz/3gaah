@@ -8,3 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SpaceAdventure.unity
     guid: 2f5f6c36d92de2445bd6736b02ab3c53
+  - enabled: 1
+    path: Assets/FinNiveau1.unity
+    guid: ef3163f6b7a88d744a0aeb3f0459d9ad

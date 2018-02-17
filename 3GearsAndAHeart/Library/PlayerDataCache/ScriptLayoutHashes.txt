@@ -1,6 +1,7 @@
 WindowsStandalone
 SceneListBegin?
 Assets/SpaceAdventure.unity
+Assets/FinNiveau1.unity
 SceneListEnd?
 35eb57a7686bc413e1ae35d52e069686 Assembly-CSharp.dll:.SciBotWeapon
 790605e19831ace4cf8ae25a9753e510 Assembly-CSharp.dll:Pathfinding.ProceduralGridMover
@@ -106,6 +107,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+7a49849f28aa874b29dcc0f52eb8921a Assembly-CSharp.dll:.DialogueManager
 27ea4262e47c9f88e73c01bf087b0cb8 Assembly-CSharp.dll:Pathfinding.SingleNodeBlocker
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -162,6 +164,7 @@ c2484c826b1c2212dde986984a8c0549 Assembly-CSharp.dll:.Weapon
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.FireLight
 83831c8ee353edca04f378b861a340b4 Assembly-CSharp.dll:.Player2ControlerScript
 869e5abc2271c3b618904edff22e38ef Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExplosionFireAndDebris
+ca85baa647772d40e44841a501c07fdc Assembly-CSharp.dll:.OnEnterTriggerDialog
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -176,6 +179,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+a613b684bf16878a2641bdfe895b48ad Assembly-CSharp.dll:.TriggerAnimator
 31da41023290d7b6498d83b6333ad28b Assembly-CSharp.dll:.Player3ControlerScript
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 5cd65746051fec2de555c6b5d68dd383 Assembly-CSharp.dll:Pathfinding.RaycastModifier
@@ -187,6 +191,7 @@ b2f30289b62608d0eb29a49e78b06150 Assembly-CSharp.dll:Pathfinding.Examples.MineBo
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.AlphaButtonClickMask
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
+5625be4fa8cd1d7a3ffee3e480f9ea99 Assembly-CSharp.dll:.OnEnterFinishLevel
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DynamicShadowSettings
 b779d2a13c42b3711c0ec4fc6f822137 Assembly-CSharp.dll:Pathfinding.Examples.MineBotAI
@@ -201,6 +206,7 @@ ba3be7c0ab2fb037b639c3016a251697 Assembly-CSharp.dll:Pathfinding.RelevantGraphSu
 9c0dd38c1e3010f4d56fb251074b0f27 Assembly-CSharp.dll:Pathfinding.UnityReferenceHelper
 0691bc3acb289a16d11d6eb3d8701a0f Assembly-CSharp.dll:Pathfinding.Examples.DoorController
 fc113acbe92570da5966278b008c7df9 Assembly-CSharp.dll:.EnemyAI
+251b4d2a406d30c4fb46973300432dce Assembly-CSharp.dll:.MilBotMoveSnd
 fa701de4c8e5a4fa795049ccfb143352 Assembly-CSharp.dll:Pathfinding.Examples.TurnBasedAI
 ab232dc3d94359ca42eabb9c72cbbb82 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.WaterHoseParticles
 05b6acce8aa9de4aad8c0b3371b1e24b Assembly-CSharp.dll:Pathfinding.GraphUpdateScene
@@ -215,6 +221,7 @@ db3b233e35a88802fed1717d19c3d9ec Assembly-CSharp-firstpass.dll:UnityStandardAsse
 ad0f126fcba09821bc39d20a791e1921 Assembly-CSharp.dll:Pathfinding.NodeLink3
 a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TouchPad
 0ad469aca31264c6140b1e503c43ab6b Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectDestructor
+3f7e99950c7b595236f83024175184fd Assembly-CSharp.dll:.DialogueTrigger
 b1a3ad5368292866ce0a612638dc94ac Assembly-CSharp.dll:Pathfinding.Examples.ProceduralWorld
 f4b175ffc1eeca85d2783436b4c764a7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.Explosive
 07d1fc8e8474aff9658718659e4ceda0 Assembly-CSharp.dll:.moveTrail
@@ -226,4 +233,3 @@ b807d416ed1e4827ed012a75c2ab224e Assembly-CSharp.dll:Pathfinding.DynamicGridObst
 f4608f94159757a2d4d48353824d89a8 Assembly-CSharp.dll:.TurretControl
 01a95bf08e3520fc2d09e9e06d59a2ea Assembly-CSharp.dll:.EngBotWeapon
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-251b4d2a406d30c4fb46973300432dce Assembly-CSharp.dll:.MilBotMoveSnd

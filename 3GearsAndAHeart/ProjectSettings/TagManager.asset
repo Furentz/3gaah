@@ -15,6 +15,7 @@ TagManager:
   - DrainableMat
   - Decor
   - Enemy
+  - NanoCube
   layers:
   - Default
   - TransparentFX

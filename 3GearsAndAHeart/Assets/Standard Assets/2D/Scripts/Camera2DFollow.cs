@@ -68,7 +68,7 @@ namespace UnityStandardAssets._2D
 			{
 			if (nextTimeToSearch <= Time.time) 
 					{
-				GameObject searchResult2 = GameObject.FindGameObjectWithTag ("SciBot");
+				GameObject searchResult2 = GameObject.FindGameObjectWithTag ("MilBot");
 					if (searchResult2 != null)
 					target = searchResult2.transform;
 					}

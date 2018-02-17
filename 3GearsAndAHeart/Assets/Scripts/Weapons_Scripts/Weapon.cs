@@ -27,12 +27,12 @@ public class Weapon : MonoBehaviour
 
 	void Update () {
 		if (fireRate == 0) {
-			if (Input.GetButtonDown ("Fire1")) {
+			if (Input.GetButtonDown ("Fire2")) {
 				Shoot();
 				}
 			} 
 			else {
-			if (Input.GetButton ("Fire1") && Time.time > timeToFire) {
+			if (Input.GetButton ("Fire2") && Time.time > timeToFire) {
 				timeToFire = Time.time + 1 / fireRate;
 				Shoot();
 				}

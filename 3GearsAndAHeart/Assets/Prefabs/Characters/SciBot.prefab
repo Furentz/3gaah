@@ -19,7 +19,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4414692258080178}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SciBotGrndChk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 212744848334312540}
   - component: {fileID: 95504174570652882}
   - component: {fileID: 114658180395198582}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SciBot
   m_TagString: SciBot
   m_Icon: {fileID: 0}
@@ -56,7 +56,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4411726408905608}
   - component: {fileID: 212678573816271438}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SciBotGraph
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1860014733942866}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.19741309, y: 0.77206826, z: 0}
+  m_LocalPosition: {x: -4.08, y: 0.15, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4411726408905608}
@@ -132,7 +132,7 @@ CircleCollider2D:
   m_GameObject: {fileID: 1860014733942866}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 18e11a85769479b408da1cd790858e86, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -221,7 +221,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -654797313
   m_SortingLayer: 3
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 07252658891113e499e13e849e73f7e9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

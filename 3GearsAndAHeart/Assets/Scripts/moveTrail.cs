@@ -21,7 +21,14 @@ public class moveTrail : MonoBehaviour {
 			coll.gameObject.GetComponent<MobDamage> ().DamageEnemy (BulletDmg);
 			Destroy (gameObject, 0);
 		}
+	
+		if (coll.gameObject.tag == "Decor") {
+			Destroy (gameObject, 0);
+		}
+	
 	}
+
+
 
 		
 }
