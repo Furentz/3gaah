@@ -5,6 +5,7 @@ using UnityEngine;
 public class moveTrail : MonoBehaviour {
 	public int moveSpeed = 10;
 	public int BulletDmg = 50;
+
 	//public MobDamage other;
 
 	// Update is called once per frame

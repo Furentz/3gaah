@@ -32,7 +32,9 @@ public class MobDamage : MonoBehaviour
 	public void DamageEnemy (int damage) 
 	{
 		enemyStats.Health -= damage;
-		if (enemyStats.Health <= 0) {
+		if (enemyStats.Health <= 0) 
+			{
+			//Here stop firing?
 			anim.SetTrigger ("dead");
 			}
 	}

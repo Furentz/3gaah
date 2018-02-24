@@ -67,6 +67,7 @@ D:\Unity\Projects\SpaceAdventure1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcod
 D:\Unity\Projects\SpaceAdventure1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\Unity\Projects\SpaceAdventure1\obj\Debug\Assembly-CSharp.dll
 D:\Unity\Projects\SpaceAdventure1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\Assembly-CSharp.dll
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\Assembly-CSharp.pdb
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\nunit.framework.dll
@@ -133,6 +134,5 @@ C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\Un
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\UnityEditor.VR.xml
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\obj\Debug\Assembly-CSharp.dll
 C:\Users\tiken\OneDrive\Documents\GitHub\3gaah\3GearsAndAHeart\obj\Debug\Assembly-CSharp.pdb

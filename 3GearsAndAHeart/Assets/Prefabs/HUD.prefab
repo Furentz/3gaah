@@ -835,7 +835,7 @@ MonoBehaviour:
 
     Move: Z-X-C
 
-    Shoot : Left-Click
+    Shoot : Right-Click
 
     Interact : E'
 --- !u!114 &114707029941317792
